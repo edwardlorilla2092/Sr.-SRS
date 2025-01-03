@@ -1101,7 +1101,7 @@ if __name__ == "__main__":
         "edwardlorilla2092.edwardlancelorilla@blogger.com",
         "edwardlorilla2093.edwardlancelorilla@blogger.com",
         "edwardlorilla2094.edwardlancelorilla@blogger.com",
-        "edwardlorilla2095.edwardlancelorilla1@blogger.com",
+        "edwardlorilla2095.edwardlancelorilla@blogger.com",
     ]
     for recipient in recipients:
         topic, word_count, audience = generate_random_inputs()
